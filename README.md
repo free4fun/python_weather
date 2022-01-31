@@ -1,5 +1,5 @@
 # python_weather
-Weather CLI App With Python3.9
+Weather CLI App With Python 3.9
 
 A CLI App to retrieve weather from a given city.
 
@@ -18,9 +18,9 @@ positional arguments:
 optional arguments:
 
   -h, --help            show this help message and exit
-  
+
   -i, --imperial        display the weather in imperial units
-  
+
   -l [LANGUAGE], --language [LANGUAGE]        two letters abbreviation of language to be display
 
 
