@@ -1,3 +1,4 @@
 # .gitignore
 
 #secrets.ini
+__pycache__/*
